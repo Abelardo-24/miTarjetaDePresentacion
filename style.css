@@ -1,0 +1,47 @@
+*{font-family: Arial, sans-serif;}
+
+header{
+    background-color: #034125f6;
+    padding: 20px;
+}
+
+main{
+    background-color: #dedfe0f6;
+    padding: 20px;
+
+}
+
+footer{
+    background-color: #034125f6;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    color: #027742f6;
+}
+
+#titulo{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+#descripcionHeader{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
+.informacion{
+    border: 2px solid #000000f6;
+    box-shadow: 5px 5px 10px #00000026;
+    background-color: white;
+    padding: 30px;
+    margin-left: 120px;
+    margin-right: 120px;
+    border-radius: 10px;
+
+}
